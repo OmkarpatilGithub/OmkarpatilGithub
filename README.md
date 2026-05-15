@@ -1,43 +1,106 @@
-<h1 align="center">Hi 👋, I'm Omkar Patil</h1>
+<h1 align="center">Hey there 👋, I'm Omkar Patil</h1>
+<h3 align="center">Junior Software Developer | Full Stack JavaScript Developer | SvelteKit Enthusiast</h3>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SvelteKit+%7C+Node.js+%7C+JavaScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+</div>
 
+---
 
+<img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+## 🚀 About Me
 
-🌱 I’m currently working as a    ** Junior Software Developer**
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+- 💼 Currently working as a **Junior Software Developer**
+- 🌱 Exploring **Advanced SvelteKit, Node.js & Cloud Technologies**
+- ⚡ Passionate about building **modern full-stack applications**
+- 🎯 Focused on **performance, UI/UX, and scalable backend systems**
+- 📫 Reach me at: **your-email@example.com**
+- 💡 Fun fact: I enjoy turning ideas into real-world web apps
 
+<br clear="both"/>
 
-<br>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.io/learn/svelte-tutorials/" target="_blank" rel="noreferrer"> <img src="https://github.com/OmkarpatilGithub/OmkarpatilGithub/blob/main/svelte-svgrepo-com.svg" alt="svelte" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  </p><br>
+# 🛠️ Tech Stack
 
+<div align="center">
 
-<hr width="36%" >
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,svelte,tailwind" />
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,mongodb" />
 
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmkarpatilGithub&show_icons=true&theme=dark&locale=en&layout=compact" alt="OmkarpatilGithub" /></p>
+</div>
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=OmkarpatilGithub&show_icons=true&theme=dark&locale=en" alt="OmkarpatilGithub" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+---
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarpatilGithub&theme=dark" alt="OmkarpatilGithub" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/omkar-patil-b5921b190" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-patil-21863b338" height="30" width="40" /></a>
+# 📊 GitHub Analytics
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OmkarpatilGithub&label=Profile%20views&color=0e75b6&style=flat" alt="OmkarpatilGithub" /> </p>
+<div align="center">
 
-------
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=OmkarpatilGithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarpatilGithub&theme=tokyonight&hide_border=true" />
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarpatilGithub&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OmkarpatilGithub&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarpatilGithub&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/omkar-patil-b5921b190" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://github.com/OmkarpatilGithub" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=OmkarpatilGithub&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 “Code. Build. Learn. Repeat.”
+
+</div>
